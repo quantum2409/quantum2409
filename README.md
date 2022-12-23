@@ -65,7 +65,6 @@ Submissions for the HackIT project offered by _Science and Technology Council II
 Developed a php mailer as a task for the position of Counselling service Web Secretary.
 
 ---
----
 
 That is all for now! I'll keep growing as I go.
 
