@@ -2,7 +2,7 @@
 
 ## About me
 
-Hey!!... I am Abhinav Garg and I am currently pursuing B.Tech. in Computer Science and Engineering at Indian Institute of Technology Kanpur. I have been coding actively from my very first semester but did not organize my Github account until the Christmas of 2022. Hence most of my prjects were on my local till then. Anyhoo, let us take a tour of my Github account:
+Hey!!... I am Abhinav Garg and I am currently pursuing B.Tech. in _Computer Science and Engineering at Indian Institute of Technology Kanpur_. I have been coding actively from my very first semester but did not organize my Github account until the Christmas of 2022. Hence most of my prjects were on my local till then. Anyhoo, let us take a tour of my Github account :
 
 ---
 
