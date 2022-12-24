@@ -6,6 +6,12 @@ Hey!!... I am Abhinav Garg and I am currently pursuing B.Tech. in _Computer Scie
 
 ---
 
+### [🎯 zeromq-implement](https://github.com/quantum2409/zeromq-implement/)
+
+Implement ZeroMQ to understand its working to build a logging service for _Academics and Career Council IITK_.
+
+---
+
 ### [🎯 GooglePages](https://github.com/quantum2409/GooglePages)
 
 This is something I built while learning basic HTML and CSS. It was beginning to a journey in web design.
@@ -63,12 +69,6 @@ Submissions for the HackIT project offered by _Science and Technology Council II
 ### [🎯 CS_IITK_Web_Assignment](https://github.com/quantum2409/CS_IITK_Web_Assignment)
 
 Developed a php mailer as a task for the position of _Counselling service Web Secretary_.
-
----
-
-### [🎯 zeromq-implement](https://github.com/quantum2409/zeromq-implement/)
-
-Implement ZeroMQ to understand its working to build a logging service for _Academics and Career Council IITK_.
 
 ---
 
