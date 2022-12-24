@@ -62,7 +62,7 @@ Submissions for the HackIT project offered by _Science and Technology Council II
 
 ### [🎯 CS_IITK_Web_Assignment](https://github.com/quantum2409/CS_IITK_Web_Assignment)
 
-Developed a php mailer as a task for the position of Counselling service Web Secretary.
+Developed a php mailer as a task for the position of _Counselling service Web Secretary_.
 
 ---
 
