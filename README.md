@@ -66,6 +66,12 @@ Developed a php mailer as a task for the position of Counselling service Web Sec
 
 ---
 
+### [🎯 zeromq-implement](https://github.com/quantum2409/zeromq-implement/)
+
+Implement ZeroMQ to understand its working to build a logging service for _Academics and Career Council IITK_.
+
+---
+
 That is all for now! I'll keep growing as I go.
 
 ```md
