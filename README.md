@@ -30,7 +30,7 @@ This is a project under Mr. Erik Weis and Ms. Joanna Roy. I got this through qbr
 
 ---
 
-### [🎯 wecb](https://github.com/quantum2409/wecb)
+### [🎯 project-rights](https://github.com/quantum2409/project-rights)
 
 Made a few contributions to this page. Yet to go live.
 
